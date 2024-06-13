@@ -1,4 +1,4 @@
-# NextJS + NextAuth V5 YandexID serverside authentication example
+# NextJS 14 (App Router) + NextAuth V5 YandexID serverside authentication example
 
 ## Start development
 
